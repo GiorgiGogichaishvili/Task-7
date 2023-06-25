@@ -1,0 +1,123 @@
+.container { 
+    width: 1240px;
+    margin: 0 auto;
+    /* border: solid 1px black; */
+}
+
+.ul1 { 
+    color: #636060;
+    font-size: 17px;
+    font-family: 'Gabriela', serif;
+    display: flex; 
+    justify-content: flex-end;
+}
+li {
+    margin-right: 50px;
+}
+.li-s1 {
+    margin-right: 0px;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logoimg {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.div-s1 {
+    height: 84px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.background {
+    background-image: url(../images/di2.jpg);
+    /* border: 1px solid black; */
+    background-size: cover;
+    height: 606px;
+    object-fit: contain;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.div-s2 {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     flex-wrap: wrap;
+}
+.h3-s1 {
+    color: #FFF;
+    font-size: 79px;
+    font-weight: 700;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 31px;
+}
+.h2-s1 {
+    color: #FFF;
+    font-size: 19px;
+    font-family: 'Roboto Slab', serif;  
+}
+.text-s1 {
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    width: 230px;
+    height: 230px;
+    margin-top: 84px;
+}
+.div-s4 {
+    margin-bottom: 9px;
+    color: #636060;
+    font-size: 17px;
+    font-family: 'Roboto Slab', serif;
+}
+.div-s5 {
+    margin-bottom: 37px;
+    color: #010101;
+    font-size: 28px;
+    font-family: 'Roboto Slab', serif;
+}
+.div-s6 {
+    color: #636060;
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+.mydiv-s1 {
+    width: 286px;
+    height: 320px;
+    /* border: 1px solid black; */
+    margin-bottom: 56px;
+}
+.mydiv-s2 {
+    width: 924px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    position: relative;
+    right: -315px;
+    margin-top: -231px;
+}
+.h2-s8 {
+    margin-top: 23px;
+    margin-bottom: 9px;
+    color: #343232;
+    font-size: 19px;
+    font-weight: 400px;
+    font-family: 'Roboto Slab', serif;
+}
+.h3-s9 {
+    color: #636060;
+    font-size: 18px;
+    font-weight: 400px;
+    font-family: 'Roboto Slab', serif;
+}
