@@ -1,0 +1,108 @@
+@media (max-width: 1230px) {
+    .container {
+        width: 90%;
+    }
+}
+@media (max-width: 1196px) {
+    .mydiv-s2 {
+        justify-content: space-around;
+    }
+}
+@media (max-width:800px) {
+    .ul1 {
+        display: none;
+    }
+    .fa-bars {
+        display: inline-block;
+    }
+}
+@media (max-width: 1220px) {
+    .div-s4 {
+        font-size: 15px;
+        color: black;
+        font-family: 'Roboto Slab', serif;
+    }
+@media (max-width: 1220px) {
+    .div-s5 {
+        font-size: 22px;
+        color: black;
+        font-family: 'Roboto Slab', serif;
+    }
+}
+@media (max-width: 1220px) {
+    .div-s6{
+        font-size: 15px;
+        color: black;
+        font-family: 'Roboto Slab', serif;
+    }
+}
+@media ( max-width: 1220px) {
+    .text-s1 {
+        margin-right: 40px;
+    }
+}
+@media (max-width: 605px) {
+    .h3-s1 {
+        color: #FFF;
+        font-size: 65px;
+        font-weight: 700;
+        font-family: 'Roboto Slab', serif;
+        margin-bottom: 31px;
+    }
+}
+@media (max-width: 605px){
+        .h2-s1 { color: #FFF;
+        font-size: 15px;
+        font-family: 'Roboto Slab', serif; 
+}
+@media (max-width: 495px) {
+    .h3-s1 {
+        color: #FFF;
+        font-size: 45px;
+        font-weight: 700;
+        font-family: 'Roboto Slab', serif;
+        margin-bottom: 31px;
+    }
+}
+@media (max-width: 495px){
+    .h2-s1 { color: #FFF;
+    font-size: 13px;
+    font-family: 'Roboto Slab', serif; 
+}
+@media (max-width: 440px) {
+    .text-s1 {
+        display: none;
+        flex-direction: column;
+        width: 300px;
+        height: 150px;
+        position: relative;
+        left: 90px;
+    }
+}
+@media (max-width: 440px) {
+    .mydiv-s2 {
+    width: 924px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+}
+@media (max-width:343px) {
+    .h3-s1 {
+        color: #FFF;
+        font-size: 29px;
+        font-weight: 700;
+        font-family: 'Roboto Slab', serif;
+        margin-bottom: 31px;
+    }
+}
+@media (max-width:440px) {
+
+    .fa-bounce {
+        display: inline-block;
+    }
+}
